@@ -12,7 +12,7 @@ School of IT and Engineering
 ---
 
 ## Paper
-- [Preprint PDF](./paper/preprint.pdf) (submitted version, before peer review)
+- [Preprint PDF](./paper/preprint.pdf)
 
 ⚠️ Note: This is the **pre-review version**. The final published version may differ.
 
