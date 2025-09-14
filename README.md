@@ -3,7 +3,7 @@
 This repository contains the preprint (submitted version) of our paper:
 
  ## Authors
-_Laman Panakhova, Nargiz Aghayeva, and Samir Mammadov_ 
+Laman Panakhova, Nargiz Aghayeva, and Samir Mammadov 
 
 ADA University, Azerbaijan 
 
