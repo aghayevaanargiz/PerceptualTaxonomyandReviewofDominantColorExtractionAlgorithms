@@ -2,13 +2,6 @@
 
 This repository contains the preprint (submitted version) of our paper:
 
- ## Authors
-Laman Panakhova, Nargiz Aghayeva, and Samir Mammadov 
-
-ADA University, Azerbaijan 
-
-School of IT and Engineering
-
 ---
 
 ## Paper
