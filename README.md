@@ -49,11 +49,3 @@ If you use this work in your research, please cite:
   pages={1-7},
   keywords={Fuzzy logic;Deep learning;Surveys;Uncertainty;Reviews;Taxonomy;Semantics;Clustering algorithms;Color;Extraterrestrial measurements;Dominant color extraction;perceptual metrics;clustering;fuzzy logic;deep learning;color spaces},
   doi={10.1109/AICT67988.2025.11268666}}
-
-
----
-
-## Contact
-
-For questions or collaboration inquiries:
-naghayeva16042@ada.edu.az
